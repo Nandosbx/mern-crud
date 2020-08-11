@@ -24,7 +24,7 @@ class App extends React.Component {
           email:'',
           password:''
         })
-        //console.log({data})
+        console.log(data)
       })
   }
 
